@@ -1,16 +1,25 @@
-## Hi there 👋
+🎓 Software Engineering student  
+💻 Interested in software development, algorithms and IT systems  
+🌱 Currently learning C#, C++, object-oriented programming and expanding my programming skills  
+📚 Building projects through university coursework and self-study  
+🔍 Looking for internship and junior opportunities to gain practical experience
 
-<!--
-**plichacha/plichacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
+- C++
+- C#
+- HTML / CSS
+- Excel VBA
 
-Here are some ideas to get you started:
+### Currently Working On
+- Academic programming projects  
+- Improving problem-solving skills  
+- Growing my GitHub portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- Ukrainian
+- Russian
+- English
+- German
+
+### Connect with me
+- LinkedIn: www.linkedin.com/in/iryna-nesteruk
